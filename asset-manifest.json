@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Benjamim-EP.github.io/blockchain-frontend/static/css/main.5c13a7de.css",
-    "main.js": "/Benjamim-EP.github.io/blockchain-frontend/static/js/main.5b75e808.js",
-    "static/js/453.a4cd98a8.chunk.js": "/Benjamim-EP.github.io/blockchain-frontend/static/js/453.a4cd98a8.chunk.js",
-    "index.html": "/Benjamim-EP.github.io/blockchain-frontend/index.html",
-    "main.5c13a7de.css.map": "/Benjamim-EP.github.io/blockchain-frontend/static/css/main.5c13a7de.css.map",
-    "main.5b75e808.js.map": "/Benjamim-EP.github.io/blockchain-frontend/static/js/main.5b75e808.js.map",
-    "453.a4cd98a8.chunk.js.map": "/Benjamim-EP.github.io/blockchain-frontend/static/js/453.a4cd98a8.chunk.js.map"
+    "main.css": "/blockchain-frontend/static/css/main.5c13a7de.css",
+    "main.js": "/blockchain-frontend/static/js/main.46f77b73.js",
+    "static/js/453.a4cd98a8.chunk.js": "/blockchain-frontend/static/js/453.a4cd98a8.chunk.js",
+    "index.html": "/blockchain-frontend/index.html",
+    "main.5c13a7de.css.map": "/blockchain-frontend/static/css/main.5c13a7de.css.map",
+    "main.46f77b73.js.map": "/blockchain-frontend/static/js/main.46f77b73.js.map",
+    "453.a4cd98a8.chunk.js.map": "/blockchain-frontend/static/js/453.a4cd98a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c13a7de.css",
-    "static/js/main.5b75e808.js"
+    "static/js/main.46f77b73.js"
   ]
 }
