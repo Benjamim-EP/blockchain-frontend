@@ -3,6 +3,7 @@ import Hero from './components/Hero';
 import AddBlock from './components/AddBlock';
 import BlockCanvas from './components/BlockCanvas';
 import tempBlocks from './data/temp_blocks.json';
+import './App.css'; // Adicione o CSS
 
 type Block = {
   index: number;
@@ -48,8 +49,8 @@ const App: React.FC = () => {
     <div className="App">
       <Hero />
       <div className="server-status">
-        <span style={{ color: isConnected ? 'green' : 'red' }}>
-          ● Servidor backend
+        <span className={isConnected ? 'status connected' : 'status disconnected'}>
+          Servidor backend
         </span>
       </div>
       <AddBlock onBlockAdded={fetchBlocks} /> {/* Passa a função fetchBlocks */}
